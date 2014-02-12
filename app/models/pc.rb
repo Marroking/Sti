@@ -1,0 +1,2 @@
+class Pc < Computadora
+end
